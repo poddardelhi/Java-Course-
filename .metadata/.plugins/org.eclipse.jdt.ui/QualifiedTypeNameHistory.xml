@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="ee.tut.oop.inventory.domain.Product"/>
+<fullyQualifiedTypeName name="ee.tut.oop.inventory.domain.Book"/>
+<fullyQualifiedTypeName name="ee.tut.oop.inventory.domain.Vendor"/>
+<fullyQualifiedTypeName name="com.nishant.mainpackage.Employee"/>
+<fullyQualifiedTypeName name="classes.Calculator"/>
+<fullyQualifiedTypeName name="javax.print.attribute.standard.DateTimeAtCompleted"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.util.Dictionary"/>
+<fullyQualifiedTypeName name="classes.ha.main.Item"/>
+<fullyQualifiedTypeName name="classes.ha.main.StoreBasket"/>
+<fullyQualifiedTypeName name="classes.ha.main.LoyalCustomer"/>
+<fullyQualifiedTypeName name="classes.ha.main.ItemWithDiscount"/>
+<fullyQualifiedTypeName name="classes.ha.main.ItemPartyIndependence"/>
+<fullyQualifiedTypeName name="classes.ha.main.ItemInoffer"/>
+<fullyQualifiedTypeName name="classes.ha.main.ItemTakeItAll"/>
+<fullyQualifiedTypeName name="classes.ha.main.Cashier"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Package"/>
+<fullyQualifiedTypeName name="company.Employee"/>
+<fullyQualifiedTypeName name="company.HourlyPaid"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="company.SalesCommissioned"/>
+<fullyQualifiedTypeName name="company.Executive"/>
+</qualifiedTypeNameHistroy>

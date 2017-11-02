@@ -1,0 +1,18 @@
+package test;
+
+import company.Employee;
+import company.HourlyPaid;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		HourlyPaid h1= new HourlyPaid();
+		h1.setName("Nishant");
+		h1.setRate(10);
+		h1.setHours(45);
+		System.out.println(h1.computePay());
+		
+
+}
+}

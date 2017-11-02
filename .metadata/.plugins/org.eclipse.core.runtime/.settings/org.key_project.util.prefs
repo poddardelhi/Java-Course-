@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+org.key_project.util.workspaceInitialized_org.key_project.key4eclipse.common.ui.setup.TacletOptionsSetupParticipant=true
+org.key_project.util.workspaceInitialized_org.key_project.sed.key.core.setup.StrategyPropertiesSetupParticipant=true
+org.key_project.util.workspaceInitialized_org.key_project.sed.ui.setup.PreferenceSetupParticipant=true

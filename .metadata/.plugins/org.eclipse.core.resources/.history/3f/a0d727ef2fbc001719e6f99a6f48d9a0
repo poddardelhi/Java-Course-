@@ -1,0 +1,25 @@
+package company;
+
+public class HourlyPaid extends Employee  {
+	int rate;
+	int hours;
+	public int getRate() {
+		return rate;
+	}
+	public void setRate(int rate) {
+		this.rate = rate;
+	}
+	public int getHours() {
+		return hours;
+	}
+	public void setHours(int hours) {
+		this.hours = hours;
+	}
+	@Override
+	public int computePay() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+
+}

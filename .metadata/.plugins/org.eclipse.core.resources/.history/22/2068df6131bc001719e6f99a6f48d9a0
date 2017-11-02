@@ -1,0 +1,21 @@
+package company;
+
+public class SalesCommissioned extends HourlyPaid {
+	int percentage;
+	int sales;
+	
+	public int getPercentage() {
+		return percentage;
+	}
+	public void setPercentage(int percentage) {
+		this.percentage = percentage;
+	}
+	public int getSales() {
+		return sales;
+	}
+	public void setSales(int sales) {
+		this.sales = sales;
+	}
+	
+
+}

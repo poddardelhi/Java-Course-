@@ -1,0 +1,9 @@
+package company;
+
+public abstract class Employee {
+	String name;
+	public abstract int computePay();
+	
+	
+
+}
