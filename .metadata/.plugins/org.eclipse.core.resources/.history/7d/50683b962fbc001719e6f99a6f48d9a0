@@ -1,6 +1,0 @@
-package company;
-
-public class HourlyPaid extends Employee  {
-	
-
-}

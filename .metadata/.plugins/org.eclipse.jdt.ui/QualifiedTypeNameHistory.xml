@@ -6,7 +6,6 @@
 <fullyQualifiedTypeName name="com.nishant.mainpackage.Employee"/>
 <fullyQualifiedTypeName name="classes.Calculator"/>
 <fullyQualifiedTypeName name="javax.print.attribute.standard.DateTimeAtCompleted"/>
-<fullyQualifiedTypeName name="java.text.DateFormat"/>
 <fullyQualifiedTypeName name="java.util.Dictionary"/>
 <fullyQualifiedTypeName name="classes.ha.main.Item"/>
 <fullyQualifiedTypeName name="classes.ha.main.StoreBasket"/>
@@ -20,7 +19,22 @@
 <fullyQualifiedTypeName name="java.lang.Package"/>
 <fullyQualifiedTypeName name="company.Employee"/>
 <fullyQualifiedTypeName name="company.HourlyPaid"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="company.SalesCommissioned"/>
 <fullyQualifiedTypeName name="company.Executive"/>
+<fullyQualifiedTypeName name="classes.Pet_Interface"/>
+<fullyQualifiedTypeName name="inheritedClass.Spider"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="inheritedClass.Fish"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="ee.ttu.oop.emp.Employee"/>
+<fullyQualifiedTypeName name="ee.ttu.oop.dao.EmployeeDAOMemoryImpl"/>
+<fullyQualifiedTypeName name="ee.ttu.oop.dao.EmployeeDAO"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="java.util.ResourceBundle"/>
 </qualifiedTypeNameHistroy>
